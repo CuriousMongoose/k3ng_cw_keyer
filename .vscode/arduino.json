@@ -1,0 +1,5 @@
+{
+    "board": "arduino:avr:uno",
+    "port": "COM5",
+    "sketch": "k3ng_keyer\\k3ng_keyer.ino"
+}
